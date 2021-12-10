@@ -1,0 +1,2 @@
+module sixth_work {
+}
